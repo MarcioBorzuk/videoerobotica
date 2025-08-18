@@ -3,6 +3,6 @@ body {
     background: black;         /*define a cor do fundo da página na cor preta */
     margin: 10px;                  /*Zera o espaço próximo a margem da página */
     font-family: "Times New Roman", sans-serif;   /* Alterar a fonte do Texto */
-    margin-bottom: 400px;         /* Ajustar a margem inferior da Página*/
+    margin-bottom: 10px;         /* Ajustar a margem inferior da Página*/
 }
 
